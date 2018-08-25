@@ -7,7 +7,10 @@
         font-family: verdana, sans-serif;
     }  
     /* Custom w3.css */
-    
+    #main {
+        max-width: 1131px;
+        margin: auto;
+    }
     /*---------------*/
 </style>
 </head>

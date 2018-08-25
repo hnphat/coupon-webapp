@@ -10,7 +10,11 @@
 	include "top2.php";
 ?>
 <!-- Body -->
-<h1>Đập xây lại</h1>
+<div id="main">
+    <h1>Hello</h1>
+    
+</div>
+
 <!-- Body -->
 <?php
 	include "bot.php"
