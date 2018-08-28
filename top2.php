@@ -83,7 +83,17 @@
     .sale-bar-max {
         display: block;
     }
-
+    .sale-padding-top {
+        padding-top: 15px;
+    }
+    .sale-set-color-hr {
+        display: block;
+        height: 1px;
+        border: 0;
+        border-top: 1px solid red;
+        margin: 1em 0;
+        padding: 0; 
+    }
     @media screen and (max-width: 940px) {
         .sale-bar-max {
             display: none;
