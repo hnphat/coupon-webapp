@@ -14,7 +14,11 @@
         max-width: 1080px;
         margin: auto;
     }
-
+    .sale-sticky {
+        position: -webkit-sticky;
+        position: sticky;
+        top:0;
+    }
     .sale-reset {
     	margin: 0;
     	padding: 0;
@@ -72,6 +76,22 @@
    	.sale-padding-min {
    		padding: 5px;
    	}
+    
+    .sale-bar-min {
+        display: none;
+    }
+    .sale-bar-max {
+        display: block;
+    }
+
+    @media screen and (max-width: 940px) {
+        .sale-bar-max {
+            display: none;
+        }
+        .sale-bar-min {
+            display: block;
+        }
+    }
     /*---------------*/
 </style>
 </head>

@@ -10,16 +10,41 @@
 	include "top2.php";
 ?>
 <!-- Body -->
-<div class="w3-container w3-black">	
+<div class="w3-sidebar w3-bar w3-card w3-animate-left" style="display:none" id="search">
+  <button class="w3-bar-item w3-button sale-h1-size w3-center" onclick="closesearch()">&times;</button>	
+  <form class="w3-container">
+	  <p class="w3-center"><label><strong>TÌM KIẾM</strong></label>
+	  <input class="w3-input w3-border" type="text" /></p>	  
+	  <input class="w3-input w3-button w3-green" type="submit" value="TÌM" />
+  </form>
+</div>
+<div class="w3-sidebar w3-bar-block w3-card w3-animate-left" style="display:none" id="leftMenu">
+  <button class="w3-bar-item w3-button sale-h1-size w3-center" onclick="closeleft()">&times;</button>
+	<a href="#" class="w3-bar-item w3-mobile"><img class="sale-logo" src="sale4mua.png" alt="logo sale 4 mua"></a>
+	<a href="#" class="w3-bar-item w3-button w3-hover-black w3-hover-text-red"><span class="fa fa-home sale-bt-size"></span> HOME</a>
+	<a href="#" class="w3-bar-item w3-button w3-hover-black w3-hover-text-red"><span class="fa fa-certificate sale-bt-size"></span> COUNPON</a>
+	<a href="#" class="w3-bar-item w3-button w3-hover-black w3-hover-text-red"><span class="fa fa-codiepie sale-bt-size"></span> HOT DEAL</a>
+	<a href="#" class="w3-bar-item w3-button w3-hover-black w3-hover-text-red"><span class="fa fa-compass sale-bt-size"></span> SO SANH</a>
+	<a href="#" class="w3-bar-item w3-button w3-hover-black w3-hover-text-red"><span class="fa fa-cube sale-bt-size"></span> INTERVIEW</a>
+	<a href="#" class="w3-bar-item w3-button w3-hover-black w3-hover-text-red"><span class="fa fa-database sale-bt-size"></span> INFORMATION</a>
+</div>
+<div class="w3-container w3-black sale-sticky sale-bar-min">	  	
+	<div class="w3-bar w3-black main">
+		<button class="w3-button w3-black sale-bt-size w3-xlarge w3-hide-large" onclick="openleft()">&#9776;</button>
+		<a href="#" class="w3-button w3-black"><img class="sale-logo" src="sale4mua.png" alt="logo sale 4 mua"></a>
+		<button class="w3-button w3-black sale-bt-size w3-xlarge w3-hide-large w3-right" onclick="opensearch()"><span class="fa fa-search"></span></button>
+	</div>		
+</div>
+<div class="w3-container w3-black sale-sticky sale-bar-max">	  	
 	<nav class="w3-bar w3-black main">
-    	<a href="#" class="w3-bar-item w3-mobile"><img class="sale-logo" src="sale4mua.png" alt="logo sale 4 mua"></a>
-    	<a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-black w3-hover-text-red"><span class="fa fa-home sale-bt-size"></span> HOME</a>
-    	<a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-black w3-hover-text-red"><span class="fa fa-certificate sale-bt-size"></span> COUNPON</a>
-    	<a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-black w3-hover-text-red"><span class="fa fa-codiepie sale-bt-size"></span> HOT DEAL</a>
-    	<a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-black w3-hover-text-red"><span class="fa fa-compass sale-bt-size"></span> SO SANH</a>
-    	<a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-black w3-hover-text-red"><span class="fa fa-cube sale-bt-size"></span> INTERVIEW</a>
-    	<a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-black w3-hover-text-red"><span class="fa fa-database sale-bt-size"></span> INFORMATION</a>
-	</nav>
+		<a href="#" class="w3-bar-item w3-mobile"><img class="sale-logo" src="sale4mua.png" alt="logo sale 4 mua"></a>
+		<a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-black w3-hover-text-red"><span class="fa fa-home sale-bt-size"></span> HOME</a>
+		<a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-black w3-hover-text-red"><span class="fa fa-certificate sale-bt-size"></span> COUNPON</a>
+		<a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-black w3-hover-text-red"><span class="fa fa-codiepie sale-bt-size"></span> HOT DEAL</a>
+		<a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-black w3-hover-text-red"><span class="fa fa-compass sale-bt-size"></span> SO SANH</a>
+		<a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-black w3-hover-text-red"><span class="fa fa-cube sale-bt-size"></span> INTERVIEW</a>
+		<a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-black w3-hover-text-red"><span class="fa fa-database sale-bt-size"></span> INFORMATION</a>
+	</nav>		
 </div>
 <div class="main">	
 	<!-- 
@@ -76,7 +101,22 @@
     	</aside>
     </main>
 </div>
-
+<script>
+function openleft() {
+    document.getElementById("leftMenu").style.display = "block";
+    document.getElementById("search").style.display = "none";
+}
+function closeleft() {
+    document.getElementById("leftMenu").style.display = "none";
+}
+function opensearch() {
+    document.getElementById("search").style.display = "block";
+    document.getElementById("leftMenu").style.display = "none";
+}
+function closesearch() {
+    document.getElementById("search").style.display = "none";
+}
+</script>
 <!-- Body -->
 <?php
 	include "bot.php"
