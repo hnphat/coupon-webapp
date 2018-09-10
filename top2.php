@@ -94,14 +94,24 @@
         margin: 1em 0;
         padding: 0; 
     }
+    .sale-padding-thongtin {
+        padding: 5px 10px 5px 5px;
+    }
+    .sale-vertical {
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
     @media screen and (max-width: 940px) {
         .sale-bar-max {
             display: none;
         }
         .sale-bar-min {
             display: block;
-        }
-    }
+        }       
+    }  
     /*---------------*/
 </style>
 </head>

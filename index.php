@@ -29,7 +29,7 @@
 </div>
 <div class="w3-container w3-black sale-sticky sale-bar-min">	  	
 	<div class="w3-bar w3-black main">
-		<button class="w3-button w3-black sale-bt-size w3-xlarge w3-hide-large" onclick="openleft()">&#9776;</button>
+		<button class="w3-button w3-black sale-bt-size w3-xlarge w3-hide-large" onclick="openleft()"><span class="fa fa-bars"></span></button>
 		<a href="#" class="w3-button w3-black"><img class="sale-logo" src="sale4mua.png" alt="logo sale 4 mua"></a>
 		<button class="w3-button w3-black sale-bt-size w3-xlarge w3-hide-large w3-right" onclick="opensearch()"><span class="fa fa-search"></span></button>
 	</div>		
@@ -81,7 +81,7 @@
     	</div>
     </section>
     <hr class="sale-set-color-hr" />
-    <h1 class="w3-green sale-h1-size w3-center"><strong>Mã giảm giá</strong></h1>
+    <h1 class="w3-text-red sale-h1-size w3-center"><strong>Mã giảm giá</strong></h1>
     <h2 class="sale-h1-size-low w3-center w3-text-orange"><strong>(Mã giảm giá Tiki, Lazada, shopee, sendo, nguyễn kim,....)</strong></h2>
     <section class="w3-row">
       <article class="w3-quarter sale-padding-min">
@@ -174,24 +174,684 @@
         </article>
     </section>
     <hr class="sale-set-color-hr" />
-    <h1 class="w3-green sale-h1-size w3-center"><strong>Review sản phẩm</strong></h1>
+    <h1 class="w3-text-red sale-h1-size w3-center"><strong>Thông tin giảm giá</strong></h1>
     <main class="w3-row">
-    	<section class="w3-twothird w3-padding">
-    		<div class="w3-row">
-    			<article class="w3-twothird sale-padding-min">
-    				<a href="#"><img class="w3-image" src="image/topcontent/test1.jpg" alt="demotest" /></a>
-    				<a class="sale-link" href="#"><h1 class="sale-h1-size"><strong>Trên tay Pocophone F1 chính hãng: 7.99 triệu có Snapdragon 845, pin 4000mAh, tai thỏ, camera kép</strong></h1></a>
-    				<p>Là sản phẩm đầu tiên của thương hiệu con của Xiaomi, Pocophone F1 là chiếc máy tầm trung nhưng với hiệu năng ngang ngửa các sản phẩm cao cấp.</p>
-    			</article>
-    			<article class="w3-third sale-padding-min">
-    				<a href="#"><img class="w3-image" src="image/topcontent/test2.jpg" alt="demotest" /></a>
-    				<a class="sale-link" href="#"><h1 class="sale-h1-size-low"><strong>Dùng thử Bluetooth Receiver vô danh giá 40.000 đồng: Của rẻ mà không hề ôi!</strong></h1></a>
-    			</article>
-    		</div>    		
-    	</section>
-    	<aside class="w3-third w3-padding">
-    		
-    	</aside>
+    	  <div class="w3-bar w3-light">
+            <a class="w3-bar-item w3-button tablink w3-green w3-mobile" onclick="openTab(event,'moinhat')"><strong>Mới nhất</strong></a>
+            <a class="w3-bar-item w3-button tablink w3-mobile" onclick="openTab(event,'dientu')"><strong>Điện tử</strong></a>
+            <a class="w3-bar-item w3-button tablink w3-mobile" onclick="openTab(event,'giadung')"><strong>Gia dụng</strong></a>
+            <a class="w3-bar-item w3-button tablink w3-mobile" onclick="openTab(event,'nhabep')"><strong>Nhà bếp</strong></a>
+            <a class="w3-bar-item w3-button tablink w3-mobile" onclick="openTab(event,'meomuahang')"><strong>Mẹo mua hàng</strong></a>
+            <a class="w3-bar-item w3-button tablink w3-mobile" onclick="openTab(event,'tintuc')"><strong>Tin tức</strong></a>
+          </div>
+            <div id="moinhat" class="w3-container w3-border w3-row thongtin">
+                 <section class="w3-row">
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/6.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/6.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                            
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/6.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                             
+                        </div>
+                    </article>
+                    <article class="w3-half w3-row">
+                         <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/6.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/6.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                            
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/6.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                             
+                        </div>
+                    </article>
+                </section>           
+                <section class="w3-row">
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/6.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/6.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                            
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/6.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                             
+                        </div>
+                    </article>
+                    <article class="w3-half w3-row">
+                         <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/6.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/6.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                            
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/6.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                             
+                        </div>
+                    </article>
+                </section>           
+               <div class="w3-center w3-padding"><button class="w3-button w3-green">Xem thêm</button></div>
+          </div>
+
+          <div id="dientu" class="w3-container w3-border thongtin" style="display:none">
+            <section class="w3-row">
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/8.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/8.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/8.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/8.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/8.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/8.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+            </section> 
+            <section class="w3-row">
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/8.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/8.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/8.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/8.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/8.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/8.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+            </section>             
+            <div class="w3-center w3-padding"><button class="w3-button w3-green">Xem thêm</button></div>       
+          </div>
+
+          <div id="giadung" class="w3-container w3-border thongtin" style="display:none">
+             <section class="w3-row">
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/9.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/10.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/11.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+                    <article class="w3-half w3-row">
+                         <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/9.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/10.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/11.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+            </section>          
+            <section class="w3-row">
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/9.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/10.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/11.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+                    <article class="w3-half w3-row">
+                         <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/9.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/10.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/moinhat/11.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+            </section>        
+            <div class="w3-center w3-padding"><button class="w3-button w3-green">Xem thêm</button></div>  
+          </div>
+           <div id="nhabep" class="w3-container w3-border thongtin" style="display:none">
+            <section class="w3-row">
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/nhabep/1.png" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/nhabep/1.png" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/nhabep/1.png" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/nhabep/1.png" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/nhabep/1.png" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/nhabep/1.png" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+            </section>    
+            <section class="w3-row">
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/nhabep/1.png" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/nhabep/1.png" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/nhabep/1.png" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/nhabep/1.png" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/nhabep/1.png" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/nhabep/1.png" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+            </section>    
+            <div class="w3-center w3-padding"><button class="w3-button w3-green">Xem thêm</button></div>              
+          </div>
+           <div id="meomuahang" class="w3-container w3-border thongtin" style="display:none">
+            <section class="w3-row">
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/meomuahang/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/meomuahang/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/meomuahang/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+                    <article class="w3-half w3-row">
+                       <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/meomuahang/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/meomuahang/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/meomuahang/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+            </section>    
+            <section class="w3-row">
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/meomuahang/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/meomuahang/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/meomuahang/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+                    <article class="w3-half w3-row">
+                       <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/meomuahang/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/meomuahang/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/meomuahang/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+            </section>    
+            <div class="w3-center w3-padding"><button class="w3-button w3-green">Xem thêm</button></div>        
+          </div>
+           <div id="tintuc" class="w3-container w3-border thongtin" style="display:none">
+           <section class="w3-row">
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/tintuc/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/tintuc/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/tintuc/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/tintuc/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/tintuc/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/tintuc/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+            </section>
+           <section class="w3-row">
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/tintuc/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/tintuc/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/tintuc/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+                    <article class="w3-half w3-row">
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/tintuc/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/tintuc/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                        <div class="w3-third sale-padding-thongtin">   
+                            <div class="sale-padding-thongtin w3-card">
+                                <div class="w3-center">
+                                   <img src="image/tintuc/1.jpg" alt="demo" class="w3-image" >      
+                                </div>                                                               
+                                <p class="sale-reset">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</p>
+                            </div>                      
+                        </div>
+                    </article>
+            </section>    
+            <div class="w3-center w3-padding"><button class="w3-button w3-green">Xem thêm</button></div>        
+          </div>
     </main>
 </div>
 <!-- Body -->

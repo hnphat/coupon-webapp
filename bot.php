@@ -87,6 +87,19 @@ function opensearch() {
 function closesearch() {
     document.getElementById("search").style.display = "none";
 }
+function openTab(evt, cityName) {
+  var i, x, tablinks;
+  x = document.getElementsByClassName("thongtin");
+  for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < x.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" w3-green", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " w3-green";
+}
 </script>
 <script src="https://www.w3schools.com/lib/w3.js"></script>
 </body>
