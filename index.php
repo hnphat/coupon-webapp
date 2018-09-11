@@ -81,7 +81,7 @@
     	</div>
     </section>
     <hr class="sale-set-color-hr" />
-    <h1 class="w3-text-red sale-h1-size w3-center"><strong>Mã giảm giá</strong></h1>
+    <h1 class="w3-text-red sale-h1-size w3-center"><strong>MÃ GIẢM GIÁ MỚI NHẤT</strong></h1>
     <h2 class="sale-h1-size-low w3-center w3-text-orange"><strong>(Mã giảm giá Tiki, Lazada, shopee, sendo, nguyễn kim,....)</strong></h2>
     <section class="w3-row">
       <article class="w3-quarter sale-padding-min">
@@ -173,8 +173,277 @@
             </div>
         </article>
     </section>
+    <hr class="sale-set-color-hr" />    
+    <section class="w3-container">
+        <article class="w3-threequarter w3-padding">
+        <h1 class="w3-text-red sale-h1-size w3-center"><strong>TIN MỚI NHẤT</strong></h1>
+            <div class="w3-row">
+                <div class="w3-quarter">
+                    <div class="w3-center">
+                        <img class="w3-image" src="image/mgg/lotte.png" alt="test">
+                    </div>
+                </div>
+                <div class="w3-threequarter">
+                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
+                </div>
+            </div>
+            <hr/>
+            <div class="w3-row">
+                <div class="w3-quarter">
+                    <div class="w3-center">
+                        <img class="w3-image" src="image/mgg/lazada.png" alt="test">
+                    </div>
+                </div>
+                <div class="w3-threequarter">
+                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
+                </div>
+            </div>
+            <hr/>
+            <div class="w3-row">
+                <div class="w3-quarter">
+                    <div class="w3-center">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                    </div>
+                </div>
+                <div class="w3-threequarter">
+                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
+                </div>
+            </div>
+            <hr/>
+            <div class="w3-row">
+                <div class="w3-quarter">
+                    <div class="w3-center">
+                        <img class="w3-image" src="image/mgg/lotte.png" alt="test">
+                    </div>
+                </div>
+                <div class="w3-threequarter">
+                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
+                </div>
+            </div>
+            <hr/>
+            <div class="w3-row">
+                <div class="w3-quarter">
+                    <div class="w3-center">
+                        <img class="w3-image" src="image/mgg/lazada.png" alt="test">
+                    </div>
+                </div>
+                <div class="w3-threequarter">
+                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
+                </div>
+            </div>
+            <hr/>
+            <div class="w3-row">
+                <div class="w3-quarter">
+                    <div class="w3-center">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                    </div>
+                </div>
+                <div class="w3-threequarter">
+                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
+                </div>
+            </div>
+            <hr/>
+            <div class="w3-row">
+                <div class="w3-quarter">
+                    <div class="w3-center">
+                        <img class="w3-image" src="image/mgg/lotte.png" alt="test">
+                    </div>
+                </div>
+                <div class="w3-threequarter">
+                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
+                </div>
+            </div>
+            <hr/>
+            <div class="w3-row">
+                <div class="w3-quarter">
+                    <div class="w3-center">
+                        <img class="w3-image" src="image/mgg/lazada.png" alt="test">
+                    </div>
+                </div>
+                <div class="w3-threequarter">
+                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
+                </div>
+            </div>
+            <hr/>
+            <div class="w3-row">
+                <div class="w3-quarter">
+                    <div class="w3-center">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                    </div>
+                </div>
+                <div class="w3-threequarter">
+                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
+                </div>
+            </div>
+            <div class="w3-center w3-padding"><button class="w3-button w3-green">Xem thêm</button></div>  
+            <hr class="sale-set-color-hr" />  
+            <h1 class="w3-text-red sale-h1-size w3-center"><strong>REVIEW SẢN PHẨM</strong></h1> 
+            <section class="w3-row">
+                <article class="w3-third w3-padding">
+                    <div class="w3-card">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                        <div class="w3-container">
+                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
+                        </div>    
+                    </div>                    
+                </article>
+                <article class="w3-third w3-padding">
+                     <div class="w3-card">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                        <div class="w3-container">
+                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
+                        </div>    
+                    </div>         
+                </article>
+                <article class="w3-third w3-padding">
+                     <div class="w3-card">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                        <div class="w3-container">
+                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
+                        </div>    
+                    </div>         
+                </article>
+            </section>
+            <section class="w3-row">
+                <article class="w3-third w3-padding">
+                    <div class="w3-card">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                        <div class="w3-container">
+                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
+                        </div>    
+                    </div>                    
+                </article>
+                <article class="w3-third w3-padding">
+                     <div class="w3-card">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                        <div class="w3-container">
+                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
+                        </div>    
+                    </div>         
+                </article>
+                <article class="w3-third w3-padding">
+                     <div class="w3-card">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                        <div class="w3-container">
+                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
+                        </div>    
+                    </div>         
+                </article>                
+            </section>
+            <div class="w3-center w3-padding"><button class="w3-button w3-green">Xem thêm</button></div>    
+            <hr class="sale-set-color-hr" />  
+            <h1 class="w3-text-red sale-h1-size w3-center"><strong>KINH NGHIỆM</strong></h1> 
+            <section class="w3-row">
+                <article class="w3-third w3-padding">
+                    <div class="w3-card">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                        <div class="w3-container">
+                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
+                        </div>    
+                    </div>                    
+                </article>
+                <article class="w3-third w3-padding">
+                     <div class="w3-card">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                        <div class="w3-container">
+                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
+                        </div>    
+                    </div>         
+                </article>
+                <article class="w3-third w3-padding">
+                     <div class="w3-card">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                        <div class="w3-container">
+                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
+                        </div>    
+                    </div>         
+                </article>
+            </section>
+            <section class="w3-row">
+                <article class="w3-third w3-padding">
+                    <div class="w3-card">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                        <div class="w3-container">
+                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
+                        </div>    
+                    </div>                    
+                </article>
+                <article class="w3-third w3-padding">
+                     <div class="w3-card">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                        <div class="w3-container">
+                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
+                        </div>    
+                    </div>         
+                </article>
+                <article class="w3-third w3-padding">
+                     <div class="w3-card">
+                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                        <div class="w3-container">
+                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
+                        </div>    
+                    </div>         
+                </article>
+            </section>
+            <div class="w3-center w3-padding"><button class="w3-button w3-green">Xem thêm</button></div>    
+        </article>
+        <aside class="w3-quarter w3-padding">
+            <h1 class="w3-text-red sale-h1-size w3-center"><strong>MÃ THÁNG 8/2018</strong></h1> 
+            <ul class="w3-ul">              
+                <li class="w3-red"><a class="sale-link w3-block" href="#"><span class="fa fa-tag"></span> SHOPEE</a></li> 
+                <li class="w3-red"><a class="sale-link w3-block" href="#"><span class="fa fa-tag"></span> LAZADA</a></li> 
+                <li class="w3-red"><a class="sale-link w3-block" href="#"><span class="fa fa-tag"></span> TIKI</a></li> 
+                <li class="w3-red"><a class="sale-link w3-block" href="#"><span class="fa fa-tag"></span> ADAYROI</a></li> 
+                <li class="w3-red"><a class="sale-link w3-block" href="#"><span class="fa fa-tag"></span> MYTOUR</a></li> 
+                <li class="w3-red"><a class="sale-link w3-block" href="#"><span class="fa fa-tag"></span> AGODA</a></li> 
+                <li class="w3-red"><a class="sale-link w3-block" href="#"><span class="fa fa-tag"></span> FADO</a></li> 
+                <li class="w3-red"><a class="sale-link w3-block" href="#"><span class="fa fa-tag"></span> KYNA</a></li> 
+                <li class="w3-red"><a class="sale-link w3-block" href="#"><span class="fa fa-tag"></span> NGUYỄN KIM</a></li> 
+                <li class="w3-red"><a class="sale-link w3-block" href="#"><span class="fa fa-tag"></span> UBER</a></li> 
+                <li class="w3-red"><a class="sale-link w3-block" href="#"><span class="fa fa-tag"></span> GRAB</a></li>                 
+            </ul>
+            <h1 class="w3-text-red sale-h1-size w3-center"><strong>HƯỚNG DẪN MUA</strong></h1> 
+            <ul class="w3-ul">              
+                <li>
+                    <a class="sale-link" href="#">
+                    <div class="w3-center"><img class="w3-image" src="image/mgg/shopee.png" alt="test"></div>
+                    Hướng dẫn sử dụng mã giảm giá mua hàng trên <strong>Lazada</strong>
+                    </a>
+                </li>
+                <li>
+                    <a class="sale-link" href="#">
+                    <div class="w3-center"><img class="w3-image" src="image/mgg/lotte.png" alt="test"></div>
+                    Hướng dẫn sử dụng mã giảm giá mua hàng trên <strong>Shopee</strong>
+                    </a>
+                </li>
+                <li>
+                    <a class="sale-link" href="#">
+                    <div class="w3-center"><img class="w3-image" src="image/mgg/shopee.png" alt="test"></div>
+                    Hướng dẫn sử dụng mã giảm giá mua hàng trên <strong>Tiki</strong></a>
+                </li>   
+                <li>
+                    <a class="sale-link" href="#">
+                    <div class="w3-center"><img class="w3-image" src="image/mgg/lazada.png" alt="test"></div>
+                    Hướng dẫn sử dụng mã giảm giá mua hàng trên <strong>Sendo</strong>
+                    </a>
+                </li>
+                <div class="w3-center w3-padding"><button class="w3-button w3-green">Xem thêm</button></div>    
+            </ul>     
+            <div>
+                <img class="w3-image" src="image/tintuc/2.jpg" alt="test">
+            </div>
+            <div>
+                <img class="w3-image" src="image/tintuc/3.jpg" alt="test">
+            </div>
+            <div>
+                <img class="w3-image" src="image/tintuc/4.jpg" alt="test">
+            </div>
+            <div>
+                <img class="w3-image" src="image/tintuc/5.jpg" alt="test">
+            </div>              
+    </section>
     <hr class="sale-set-color-hr" />
-    <h1 class="w3-text-red sale-h1-size w3-center"><strong>Thông tin giảm giá</strong></h1>
+    <h1 class="w3-text-red sale-h1-size w3-center"><strong>THÔNG TIN GIẢM GIÁ</strong></h1>
     <main class="w3-row">
     	  <div class="w3-bar w3-light">
             <a class="w3-bar-item w3-button tablink w3-green w3-mobile" onclick="openTab(event,'moinhat')"><strong>Mới nhất</strong></a>
