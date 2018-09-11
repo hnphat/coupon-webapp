@@ -178,214 +178,67 @@
         <article class="w3-threequarter w3-padding">
         <h1 class="w3-text-red sale-h1-size w3-center"><strong>TIN MỚI NHẤT</strong></h1>
             <div class="w3-row">
-                <div class="w3-quarter">
+                <div class="w3-third w3-padding">
                     <div class="w3-center">
-                        <img class="w3-image" src="image/mgg/lotte.png" alt="test">
+                        <a class="sale-link" href="#"><img class="w3-image" src="image/tintuc/4.jpg" alt="test"></a>
                     </div>
-                </div>
-                <div class="w3-threequarter">
-                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
+                </div>                
+                <div class="w3-twothird">
+                    <h3><strong><a class="sale-link" href="#">Trông chờ gì ở chiếc Apple Watch Series 4?</a></strong></h3>
+                    <p>Một năm sau khi Apple mang đến những thay đổi lớn - nhưng đắt đỏ - đối với dòng smartphone của mình bằng chiếc iPhone X, có lẽ cuối cùng hãng cũng sẽ tung ra một chiếc điện thoại với thiết kế mới nhưng giá rẻ hơn cho mọi người.</p>
                 </div>
             </div>
             <hr/>
             <div class="w3-row">
-                <div class="w3-quarter">
+                <div class="w3-third w3-padding">
                     <div class="w3-center">
-                        <img class="w3-image" src="image/mgg/lazada.png" alt="test">
+                        <a class="sale-link" href="#"><img class="w3-image" src="image/tintuc/5.jpg" alt="test"></a>
                     </div>
-                </div>
-                <div class="w3-threequarter">
-                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
+                </div>                
+                <div class="w3-twothird">
+                    <h3><strong><a class="sale-link" href="#">Trông chờ gì ở chiếc Apple Watch Series 4?</a></strong></h3>
+                    <p>Một năm sau khi Apple mang đến những thay đổi lớn - nhưng đắt đỏ - đối với dòng smartphone của mình bằng chiếc iPhone X, có lẽ cuối cùng hãng cũng sẽ tung ra một chiếc điện thoại với thiết kế mới nhưng giá rẻ hơn cho mọi người.</p>
                 </div>
             </div>
             <hr/>
             <div class="w3-row">
-                <div class="w3-quarter">
+                <div class="w3-third w3-padding">
                     <div class="w3-center">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
+                        <a class="sale-link" href="#"><img class="w3-image" src="image/tintuc/1.jpg" alt="test"></a>
                     </div>
-                </div>
-                <div class="w3-threequarter">
-                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
+                </div>                
+                <div class="w3-twothird">
+                    <h3><strong><a class="sale-link" href="#">Trông chờ gì ở chiếc Apple Watch Series 4?</a></strong></h3>
+                    <p>Một năm sau khi Apple mang đến những thay đổi lớn - nhưng đắt đỏ - đối với dòng smartphone của mình bằng chiếc iPhone X, có lẽ cuối cùng hãng cũng sẽ tung ra một chiếc điện thoại với thiết kế mới nhưng giá rẻ hơn cho mọi người.</p>
                 </div>
             </div>
             <hr/>
             <div class="w3-row">
-                <div class="w3-quarter">
+                <div class="w3-third w3-padding">
                     <div class="w3-center">
-                        <img class="w3-image" src="image/mgg/lotte.png" alt="test">
+                        <a class="sale-link" href="#"><img class="w3-image" src="image/tintuc/2.jpg" alt="test"></a>
                     </div>
-                </div>
-                <div class="w3-threequarter">
-                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
+                </div>                
+                <div class="w3-twothird">
+                    <h3><strong><a class="sale-link" href="#">Trông chờ gì ở chiếc Apple Watch Series 4?</a></strong></h3>
+                    <p>Một năm sau khi Apple mang đến những thay đổi lớn - nhưng đắt đỏ - đối với dòng smartphone của mình bằng chiếc iPhone X, có lẽ cuối cùng hãng cũng sẽ tung ra một chiếc điện thoại với thiết kế mới nhưng giá rẻ hơn cho mọi người.</p>
                 </div>
             </div>
             <hr/>
             <div class="w3-row">
-                <div class="w3-quarter">
+                <div class="w3-third w3-padding">
                     <div class="w3-center">
-                        <img class="w3-image" src="image/mgg/lazada.png" alt="test">
+                        <a class="sale-link" href="#"><img class="w3-image" src="image/tintuc/3.jpg" alt="test"></a>
                     </div>
-                </div>
-                <div class="w3-threequarter">
-                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
+                </div>                
+                <div class="w3-twothird">
+                    <h3><strong><a class="sale-link" href="#">Trông chờ gì ở chiếc Apple Watch Series 4?</a></strong></h3>
+                    <p>Một năm sau khi Apple mang đến những thay đổi lớn - nhưng đắt đỏ - đối với dòng smartphone của mình bằng chiếc iPhone X, có lẽ cuối cùng hãng cũng sẽ tung ra một chiếc điện thoại với thiết kế mới nhưng giá rẻ hơn cho mọi người.</p>
                 </div>
             </div>
             <hr/>
-            <div class="w3-row">
-                <div class="w3-quarter">
-                    <div class="w3-center">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
-                    </div>
-                </div>
-                <div class="w3-threequarter">
-                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
-                </div>
-            </div>
-            <hr/>
-            <div class="w3-row">
-                <div class="w3-quarter">
-                    <div class="w3-center">
-                        <img class="w3-image" src="image/mgg/lotte.png" alt="test">
-                    </div>
-                </div>
-                <div class="w3-threequarter">
-                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
-                </div>
-            </div>
-            <hr/>
-            <div class="w3-row">
-                <div class="w3-quarter">
-                    <div class="w3-center">
-                        <img class="w3-image" src="image/mgg/lazada.png" alt="test">
-                    </div>
-                </div>
-                <div class="w3-threequarter">
-                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
-                </div>
-            </div>
-            <hr/>
-            <div class="w3-row">
-                <div class="w3-quarter">
-                    <div class="w3-center">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
-                    </div>
-                </div>
-                <div class="w3-threequarter">
-                    <h2><a class="sale-link" href="#">Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</a></h2>
-                </div>
-            </div>
             <div class="w3-center w3-padding"><button class="w3-button w3-green">Xem thêm</button></div>  
-            <hr class="sale-set-color-hr" />  
-            <h1 class="w3-text-red sale-h1-size w3-center"><strong>REVIEW SẢN PHẨM</strong></h1> 
-            <section class="w3-row">
-                <article class="w3-third w3-padding">
-                    <div class="w3-card">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
-                        <div class="w3-container">
-                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
-                        </div>    
-                    </div>                    
-                </article>
-                <article class="w3-third w3-padding">
-                     <div class="w3-card">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
-                        <div class="w3-container">
-                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
-                        </div>    
-                    </div>         
-                </article>
-                <article class="w3-third w3-padding">
-                     <div class="w3-card">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
-                        <div class="w3-container">
-                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
-                        </div>    
-                    </div>         
-                </article>
-            </section>
-            <section class="w3-row">
-                <article class="w3-third w3-padding">
-                    <div class="w3-card">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
-                        <div class="w3-container">
-                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
-                        </div>    
-                    </div>                    
-                </article>
-                <article class="w3-third w3-padding">
-                     <div class="w3-card">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
-                        <div class="w3-container">
-                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
-                        </div>    
-                    </div>         
-                </article>
-                <article class="w3-third w3-padding">
-                     <div class="w3-card">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
-                        <div class="w3-container">
-                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
-                        </div>    
-                    </div>         
-                </article>                
-            </section>
-            <div class="w3-center w3-padding"><button class="w3-button w3-green">Xem thêm</button></div>    
-            <hr class="sale-set-color-hr" />  
-            <h1 class="w3-text-red sale-h1-size w3-center"><strong>KINH NGHIỆM</strong></h1> 
-            <section class="w3-row">
-                <article class="w3-third w3-padding">
-                    <div class="w3-card">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
-                        <div class="w3-container">
-                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
-                        </div>    
-                    </div>                    
-                </article>
-                <article class="w3-third w3-padding">
-                     <div class="w3-card">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
-                        <div class="w3-container">
-                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
-                        </div>    
-                    </div>         
-                </article>
-                <article class="w3-third w3-padding">
-                     <div class="w3-card">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
-                        <div class="w3-container">
-                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
-                        </div>    
-                    </div>         
-                </article>
-            </section>
-            <section class="w3-row">
-                <article class="w3-third w3-padding">
-                    <div class="w3-card">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
-                        <div class="w3-container">
-                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
-                        </div>    
-                    </div>                    
-                </article>
-                <article class="w3-third w3-padding">
-                     <div class="w3-card">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
-                        <div class="w3-container">
-                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
-                        </div>    
-                    </div>         
-                </article>
-                <article class="w3-third w3-padding">
-                     <div class="w3-card">
-                        <img class="w3-image" src="image/mgg/shopee.png" alt="test">
-                        <div class="w3-container">
-                        <h4>Tổng hợp khuyến mãi và mã giảm giá Lazada cập nhật liên tục</h4>
-                        </div>    
-                    </div>         
-                </article>
-            </section>
-            <div class="w3-center w3-padding"><button class="w3-button w3-green">Xem thêm</button></div>    
+            <hr class="sale-set-color-hr" />              
         </article>
         <aside class="w3-quarter w3-padding">
             <h1 class="w3-text-red sale-h1-size w3-center"><strong>MÃ THÁNG 8/2018</strong></h1> 
@@ -428,16 +281,7 @@
                     </a>
                 </li>
                 <div class="w3-center w3-padding"><button class="w3-button w3-green">Xem thêm</button></div>    
-            </ul>     
-            <div>
-                <img class="w3-image" src="image/tintuc/2.jpg" alt="test">
-            </div>
-            <div>
-                <img class="w3-image" src="image/tintuc/3.jpg" alt="test">
-            </div>
-            <div>
-                <img class="w3-image" src="image/tintuc/4.jpg" alt="test">
-            </div>
+            </ul>                
             <div>
                 <img class="w3-image" src="image/tintuc/5.jpg" alt="test">
             </div>              

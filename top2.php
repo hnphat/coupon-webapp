@@ -50,19 +50,24 @@
     	width: 380px;
     	height: 150px;    	
     }
-
-    .sale-image-small img {
-
-    }
+   
     .clearfix::after {
     	content: "";
     	clear: both;
     	display: table;
-
     }
     .sale-link {
     	text-decoration: none;
     	line-height: 22pt;
+    }
+    .sale-link-tin {
+        text-decoration: none;
+        line-height: 12pt;
+        color: blue;
+        font-size: 90%;
+    }
+    .sale-link-tin:hover {
+        color: DarkSlateGray;
     }
     .sale-link:hover {
     	color: DarkSlateGray;
@@ -103,6 +108,9 @@
       top: 50%;
       -ms-transform: translateY(-50%);
       transform: translateY(-50%);
+    }
+    .sale-tin {
+        line-height: 20pt;
     }
     @media screen and (max-width: 940px) {
         .sale-bar-max {
